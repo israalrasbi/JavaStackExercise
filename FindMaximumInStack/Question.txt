@@ -1,0 +1,9 @@
+Implement a stack that supports the following two operations:
+
+push(x) — Push element x onto the stack.
+
+max() — Retrieve the maximum element in the stack at any given time.
+
+Example Input: push(2); push(1); push(5); max();
+
+Example Output: 5  // (maximum element is 5)
