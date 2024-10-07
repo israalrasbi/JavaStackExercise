@@ -1,0 +1,4 @@
+Write a program that checks if a given string is a palindrome using a stack. A string is a palindrome if it reads the same forward and backward.
+Example Input: "racecar"
+
+Example Output: true
