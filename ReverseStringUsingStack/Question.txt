@@ -1,0 +1,5 @@
+Write a function to reverse a string using a stack. Push each character of the string onto the stack, then pop them off to get the reversed string.
+
+Example Input: "hello"
+
+Example Output: "olleh"
