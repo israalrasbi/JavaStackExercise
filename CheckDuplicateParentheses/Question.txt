@@ -1,0 +1,9 @@
+Given a string of parentheses, check if it contains any duplicate parentheses. For example, in the string "((a+b))", the parentheses around "a+b" are duplicated.
+
+Example Input: "((a+b)+(c+d))"
+
+Example Output: false
+
+Example Input: "((a+b))"
+
+Example Output: true
