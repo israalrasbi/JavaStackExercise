@@ -1,0 +1,5 @@
+implement a stack and write a simple function to check whether the stack is empty or not.
+
+Example Input: push(1); pop(); isEmpty();
+
+Example Output: true // (after pop, stack is empty)
