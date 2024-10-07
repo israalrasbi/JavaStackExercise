@@ -12,7 +12,13 @@ public class CheckIfStackEmpty {
 
     }
     public static boolean isStackEmpty(Stack<Integer> stack) {
-        //call the isEmpty function to check
-        return stack.isEmpty();
+        //define a variable that store the size of the stack
+        int stackSize = stack.size();
+        //if the size is 0 then the stack is empty
+        if(stackSize == 0){
+            return true;
+        }
+        //otherwise, the stack is not empty
+        return false;
     }
 }
